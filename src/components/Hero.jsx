@@ -22,7 +22,7 @@ const Hero = (props) => {
           </p>
         </Animated>
         <Animated animationIn="fadeIn" animationInDelay={1950}>
-          <p className=" font-giaza text-8xl sm:text-[9rem]">Choi</p>
+          <p className="md:mt-4 font-giaza text-8xl sm:text-[9rem]">Choi</p>
         </Animated>
         <Animated animationIn="fadeIn" animationInDelay={5000}>
           <p className="font-poppins mt-[25px] max-w-[100%] sm:max-w-[700px] items-center text-center text-md sm:text-lg">

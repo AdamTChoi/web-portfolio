@@ -13,7 +13,7 @@ import WorkImg from "../assets/workImg.jpeg";
 
 const Work = () => {
   return (
-    <div name="work" className="w-full md:h-screen bg-[#E0E1E4]">
+    <div name="work" className="w-full h-auto md:h-screen bg-[#E0E1E4]">
       <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">
         <div className="pb-4 md:pb-8">
           <p className="text-4xl md:text-6xl font-giaza inline font-bold border-b-4 border-slate-600">
